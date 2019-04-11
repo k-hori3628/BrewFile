@@ -5,6 +5,7 @@ tap homebrew/core
 brew autoconf
 brew gdbm
 brew mas
+brew nodebrew
 brew openssl
 brew pkg-config
 brew pyenv
@@ -14,10 +15,12 @@ brew xz
 
 tap homebrew/cask
 cask alfred
-cask cheatsheet
-cask dropbox
-cask hyperswitch
-cask kindle
+cask bettertouchtool
+cask clipy
+cask google-chrome
+cask iterm2
+cask pycharm
+cask webstorm
 
 tap argon/mas
 
@@ -25,10 +28,12 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Cask applications
-cask bettertouchtool
-cask clipy
-cask google-chrome
-cask iterm2
+cask amazon-music
+cask cheatsheet
+cask dropbox
+cask hyperswitch
+cask kindle
+cask skitch
 
 # App Store applications
 appstore 417375580 BetterSnapTool (1.9)
